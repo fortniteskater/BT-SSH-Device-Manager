@@ -17,3 +17,8 @@ Install the required libraries using pip:
 
 ```bash
 pip install bleak paramiko
+
+Or with python3:
+
+```bash
+pip3 install bleak paramiko
